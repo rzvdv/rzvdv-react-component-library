@@ -9,7 +9,7 @@ describe("Test Component", () => {
   beforeEach(() => {
     props = {
       primary: false,
-      label: "Test",
+      label: "Test2",
       size: "medium",
     };
   });
